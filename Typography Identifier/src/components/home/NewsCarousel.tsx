@@ -28,26 +28,26 @@ interface NewsSlide {
 export function NewsCarousel() {
   const slides: NewsSlide[] = [
     {
-      tag: 'Studio',
-      title: 'Imaginar Casa de Arte · Taller y galería',
+      tag: 'Noticias',
+      title: 'Index- Arte Contemporaneo',
       description:
-        'Espacio dedicado a la obra contemporánea y al enmarcado especializado para artistas, galerías y coleccionistas.',
+        'Lee el ensayo visual que hicimos para la revista academica Index- Arte Contemporaneo',
       imageUrl:
         'https://pub-cdn.sider.ai/u/U03VHXYV6Y/web-coder/6894d831d30e3e771cc5c90d/resource/0b53eeab-1fb6-4bb0-83c3-84682aeb8682.png',
     },
     {
       tag: 'Exhibición',
-      title: 'Lux Monsalve · Nuevas piezas en colección',
+      title: 'Lux Monsalve · INEFABLE',
       description:
         'Esculturas y obras en papel que exploran la relación entre cuerpo, paisaje y materia, disponibles a través de Imaginar Casa de Arte.',
       imageUrl:
         'https://pub-cdn.sider.ai/u/U03VHXYV6Y/web-coder/6894d831d30e3e771cc5c90d/resource/5c6c76e5-9ee4-4626-8ce8-869aea4f86a5.png',
     },
     {
-      tag: 'Servicio',
-      title: 'Enmarcado a medida para artistas y galerías',
+      tag: 'Fine Art Print ',
+      title: 'Fine Art Print · Catalogo de Obra DIgital',
       description:
-        'Asesoría personalizada en materiales, conservación y montaje para realzar cada pieza en su contexto expositivo.',
+        'Obra digital certificada impresa en tirajes limitados',
       imageUrl:
         'https://pub-cdn.sider.ai/u/U03VHXYV6Y/web-coder/6894d831d30e3e771cc5c90d/resource/0aac7fa6-442a-40d8-b257-be6922f308bb.png',
     },
